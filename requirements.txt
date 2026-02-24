@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+lxml
+numpy
+pandas
+gitpython
+jsonschema
+scikit-learn
+argparse
+pytest
